@@ -6,11 +6,13 @@
 </p>
 
 
-
 <h1 align="center">
-  Hi 👋, I'm Nourhen 🌸
-  <img src="https://media.tenor.com/images/4e6d1e3e2b8e7f0f7b5b5b5b5b5b5b5b/tenor.gif" alt="waving hand" width="50" style="vertical-align:middle;" />
+  Hi 👋, I'm Nourhen 
+  
 </h1>
+
+
+
 
 
 <h3 align="center">✨ Web Developer | UI/UX Designer | Future Cyber Security Engineer 🔐</h3>
@@ -67,8 +69,9 @@
 
 ### 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="250"/>
+ 
+   <img src="https://media.giphy.com/media/jBOOXxSJfG8kqMxT11/giphy.gif" width="300"/> 
+
 </p>
 
 ---
