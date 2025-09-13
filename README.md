@@ -19,12 +19,15 @@
 
 ---
 
-###
-💫 About Me:
-- 🎨 Mixing **Design & Programming** to build creative projects  
-- 🌱 Currently diving into **Cyber Security** world  
-- 💻 Languages I love: **HTML, CSS, JS, PHP, Python**  
-- ⚡ Fun fact: Coffee + Coding = Happiness ☕💻  
+
+## 💫 About Me  
+
+🌸 A passionate learner mixing **Design** & **Programming** to create meaningful and creative projects.  
+🔐 Currently exploring the exciting world of **Cyber Security** while strengthening my skills in **Web Development**.  
+💻 Tech stack I enjoy: **HTML, CSS, JavaScript, PHP, Python**.  
+⚡ Fun fact: For me, **Coffee + Coding = Pure Happiness** ☕💻  
+🌱 Always curious, always learning, always building.  
+
 
 ---
 
